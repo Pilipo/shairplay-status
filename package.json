@@ -1,0 +1,19 @@
+{
+  "name": "airplay-reader",
+  "version": "0.1.0",
+  "description": "Reads meta from the shairplay-sync pipe and displays on a curses modal in the console using blessed.",
+  "main": "index.js",
+  "dependencies": {
+    "atob": "^2.0.3",
+    "blessed": "^0.1.81",
+    "file-type": "^4.3.0",
+    "node-cmd": "^3.0.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phillip Lehner",
+  "license": "MIT"
+}
